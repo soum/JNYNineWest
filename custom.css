@@ -38,12 +38,3 @@ box-shadow: none !important;
 border: 0 !important;
 left: 0 !important;
 }
-.homeBottomThumb{
-width: 266px;
-height: 150px;
-background: gray;
-margin-left: 15px;
-}
-.homeBottomThumb:first-child{
-margin-left: 0;
-}
