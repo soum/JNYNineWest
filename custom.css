@@ -9,6 +9,7 @@ list-style:none;
 width: 75%;
 position: relative;
 margin: 0 auto;
+background:white;
 }
 .topBar {
 width: 100%;
@@ -19,4 +20,14 @@ background: black;
 margin: 30px auto;
 position: relative;
 width: 175px;
+}
+.topSlideImages{
+width:876px;
+}
+.bxslider{
+padding:0;
+margin:0;
+}
+.bx-wrapper{
+width:83%;
 }
