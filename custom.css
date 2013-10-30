@@ -6,7 +6,7 @@ float:left;
 list-style:none;
 }
 .inner {
-width: 75%;
+width: 66.4%;
 position: relative;
 margin: 0 auto;
 background:white;
@@ -17,17 +17,23 @@ height: 28px;
 background: black;
 }
 .logo {
-margin: 30px auto;
-position: relative;
-width: 175px;
+text-align:center;
+padding: 65px 0 15px 0;
 }
 .topSlideImages{
 width:876px;
 }
 .bxslider{
-padding:0;
-margin:0;
+padding:0 !important;
+margin:0 !important;
 }
 .bx-wrapper{
-width:83%;
+width:91%;
+}
+.bx-wrapper .bx-viewport {
+-moz-box-shadow: none !important;
+-webkit-box-shadow: none !important;
+box-shadow: none !important;
+border: 0 !important;
+left: 0 !important;
 }
