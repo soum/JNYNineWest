@@ -1,0 +1,22 @@
+.ui-collapsible-inset .ui-collapsible-heading .ui-btn{
+border-radius: 0 !important;
+}
+.ui-controlgroup-controls li{
+float:left;
+list-style:none;
+}
+.inner {
+width: 75%;
+position: relative;
+margin: 0 auto;
+}
+.topBar {
+width: 100%;
+height: 28px;
+background: black;
+}
+.logo {
+margin: 30px auto;
+position: relative;
+width: 175px;
+}
